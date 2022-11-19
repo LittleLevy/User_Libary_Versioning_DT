@@ -1,0 +1,18 @@
+Project:
+ Name: User_Libary_Versioning_DT_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.0
+ CoreVersion: 1.0
+ Dependencies:
+  2:
+   Uri: User_Libary_Versioning_DT
+   RelativePath: User_Libary_Versioning_DT.optix
+  3:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 1.0
+ Nodes: []
